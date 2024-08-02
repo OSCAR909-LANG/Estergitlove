@@ -1,0 +1,18 @@
+body.home-page{
+    background-color: chocolate;
+}
+
+body.about-page{
+    background-color: aqua;
+}
+
+body.contact-page{
+    background-color: cornflowerblue;
+}
+
+body.service-page{
+    background-color: cadetblue;
+}
+footer{
+    background-color:khaki
+}
